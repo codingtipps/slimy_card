@@ -1,6 +1,6 @@
 # slimy_card_example
 
-A new Flutter project.
+To run this project open Terminal and run this command "flutter run --no-sound-null-safety"
 
 ## Getting Started
 
